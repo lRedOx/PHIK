@@ -1,0 +1,938 @@
+[
+  {
+    "0": "abcès",
+    "1": "abcès"
+  },
+  {
+    "0": "abus",
+    "1": "abus"
+  },
+  {
+    "0": "accès",
+    "1": "accès"
+  },
+  {
+    "0": "accordailles",
+    "1": "accordailles"
+  },
+  {
+    "0": "affres",
+    "1": "affres"
+  },
+  {
+    "0": "affûtiau",
+    "1": "affûtiaux"
+  },
+  {
+    "0": "aguets",
+    "1": "aguets"
+  },
+  {
+    "0": "ailleurs",
+    "1": "ailleurs"
+  },
+  {
+    "0": "ails",
+    "1": "ail"
+  },
+  {
+    "0": "albatros",
+    "1": "albatros"
+  },
+  {
+    "0": "alentours",
+    "1": "alentours"
+  },
+  {
+    "0": "alors",
+    "1": "alors"
+  },
+  {
+    "0": "aloyau",
+    "1": "aloyaux"
+  },
+  {
+    "0": "ambages",
+    "1": "ambages"
+  },
+  {
+    "0": "anchois",
+    "1": "anchois"
+  },
+  {
+    "0": "anglais",
+    "1": "anglais"
+  },
+  {
+    "0": "annales",
+    "1": "annales"
+  },
+  {
+    "0": "appointements",
+    "1": "appointements"
+  },
+  {
+    "0": "après",
+    "1": "après"
+  },
+  {
+    "0": "archives",
+    "1": "archives"
+  },
+  {
+    "0": "armoiries",
+    "1": "armoiries"
+  },
+  {
+    "0": "arrérages",
+    "1": "arrérages"
+  },
+  {
+    "0": "arrhes",
+    "1": "arrhes"
+  },
+  {
+    "0": "atriau",
+    "1": "atriaux"
+  },
+  {
+    "0": "au",
+    "1": "aux"
+  },
+  {
+    "0": "aulx",
+    "1": "ail"
+  },
+  {
+    "0": "autobus",
+    "1": "autobus"
+  },
+  {
+    "0": "bals",
+    "1": "bal"
+  },
+  {
+    "0": "bancals",
+    "1": "bancal"
+  },
+  {
+    "0": "bau",
+    "1": "baux"
+  },
+  {
+    "0": "baux",
+    "1": "bail"
+  },
+  {
+    "0": "bérimbau",
+    "1": "bérimbaux"
+  },
+  {
+    "0": "bestiau",
+    "1": "bestiaux"
+  },
+  {
+    "0": "biomatériau",
+    "1": "biomatériaux"
+  },
+  {
+    "0": "bitoniau",
+    "1": "bitoniaux"
+  },
+  {
+    "0": "boucau",
+    "1": "boucaux"
+  },
+  {
+    "0": "boyau",
+    "1": "boyaux"
+  },
+  {
+    "0": "brebis",
+    "1": "brebis"
+  },
+  {
+    "0": "burgau",
+    "1": "burgaux"
+  },
+  {
+    "0": "cabillau",
+    "1": "cabillaux"
+  },
+  {
+    "0": "calendes",
+    "1": "calendes"
+  },
+  {
+    "0": "carnau",
+    "1": "carnaux"
+  },
+  {
+    "0": "carnavals",
+    "1": "carnavals"
+  },
+  {
+    "0": "carquois",
+    "1": "carquois"
+  },
+  {
+    "0": "cas",
+    "1": "cas"
+  },
+  {
+    "0": "certes",
+    "1": "certes"
+  },
+  {
+    "0": "chacals",
+    "1": "chacal"
+  },
+  {
+    "0": "chas",
+    "1": "chas"
+  },
+  {
+    "0": "cliques",
+    "1": "cliques"
+  },
+  {
+    "0": "colis",
+    "1": "colis"
+  },
+  {
+    "0": "complies",
+    "1": "complies"
+  },
+  {
+    "0": "concours",
+    "1": "concours"
+  },
+  {
+    "0": "condoléances",
+    "1": "condoléances"
+  },
+  {
+    "0": "confins",
+    "1": "confins"
+  },
+  {
+    "0": "confus",
+    "1": "confus"
+  },
+  {
+    "0": "coraux",
+    "1": "corail"
+  },
+  {
+    "0": "corps",
+    "1": "corps"
+  },
+  {
+    "0": "cours",
+    "1": "cours"
+  },
+  {
+    "0": "coyau",
+    "1": "coyaux"
+  },
+  {
+    "0": "crau",
+    "1": "craux"
+  },
+  {
+    "0": "cyprès",
+    "1": "cyprès"
+  },
+  {
+    "0": "dans",
+    "1": "dans"
+  },
+  {
+    "0": "décès",
+    "1": "décès"
+  },
+  {
+    "0": "dedans",
+    "1": "dedans"
+  },
+  {
+    "0": "dehors",
+    "1": "dehors"
+  },
+  {
+    "0": "dépens",
+    "1": "dépens"
+  },
+  {
+    "0": "dès",
+    "1": "dès"
+  },
+  {
+    "0": "désormais",
+    "1": "désormais"
+  },
+  {
+    "0": "dessous",
+    "1": "dessous"
+  },
+  {
+    "0": "dessus",
+    "1": "dessus"
+  },
+  {
+    "0": "devis",
+    "1": "devis"
+  },
+  {
+    "0": "discours",
+    "1": "discours"
+  },
+  {
+    "0": "donau",
+    "1": "donaux"
+  },
+  {
+    "0": "dos",
+    "1": "dos"
+  },
+  {
+    "0": "ébats",
+    "1": "ébats"
+  },
+  {
+    "0": "émaux",
+    "1": "émail"
+  },
+  {
+    "0": "embarras",
+    "1": "embarras"
+  },
+  {
+    "0": "engrais",
+    "1": "engrais"
+  },
+  {
+    "0": "entrailles",
+    "1": "entrailles"
+  },
+  {
+    "0": "entrelacs",
+    "1": "entrelacs"
+  },
+  {
+    "0": "envers",
+    "1": "envers"
+  },
+  {
+    "0": "épousailles",
+    "1": "épousailles"
+  },
+  {
+    "0": "errements",
+    "1": "errements"
+  },
+  {
+    "0": "esquimau",
+    "1": "esquimaux"
+  },
+  {
+    "0": "étau",
+    "1": "étaux"
+  },
+  {
+    "0": "excès",
+    "1": "excès"
+  },
+  {
+    "0": "fabliau",
+    "1": "fabliaux"
+  },
+  {
+    "0": "fatals",
+    "1": "fatal"
+  },
+  {
+    "0": "festivals",
+    "1": "festival"
+  },
+  {
+    "0": "fiançailles",
+    "1": "fiançailles"
+  },
+  {
+    "0": "fléau",
+    "1": "fléaux"
+  },
+  {
+    "0": "flûtiau",
+    "1": "flûtiaux"
+  },
+  {
+    "0": "fois",
+    "1": "fois"
+  },
+  {
+    "0": "fonds",
+    "1": "fonds"
+  },
+  {
+    "0": "frais",
+    "1": "frais"
+  },
+  {
+    "0": "funérailles",
+    "1": "funérailles"
+  },
+  {
+    "0": "gâchis",
+    "1": "gâchis"
+  },
+  {
+    "0": "gars",
+    "1": "gars"
+  },
+  {
+    "0": "gens",
+    "1": "gens"
+  },
+  {
+    "0": "glacials",
+    "1": "glacial"
+  },
+  {
+    "0": "glas",
+    "1": "glas"
+  },
+  {
+    "0": "gluau",
+    "1": "gluaux"
+  },
+  {
+    "0": "grau",
+    "1": "graux"
+  },
+  {
+    "0": "gruau",
+    "1": "gruaux"
+  },
+  {
+    "0": "guet-apens",
+    "1": "guet-apens"
+  },
+  {
+    "0": "héros",
+    "1": "héros"
+  },
+  {
+    "0": "honoraires",
+    "1": "honoraires"
+  },
+  {
+    "0": "hoyau",
+    "1": "hoyaux"
+  },
+  {
+    "0": "huhau",
+    "1": "huhaux"
+  },
+  {
+    "0": "ibijau",
+    "1": "ibijaux"
+  },
+  {
+    "0": "inclus",
+    "1": "inclus"
+  },
+  {
+    "0": "intrus",
+    "1": "intrus"
+  },
+  {
+    "0": "jars",
+    "1": "jars"
+  },
+  {
+    "0": "joyau",
+    "1": "joyaux"
+  },
+  {
+    "0": "jus",
+    "1": "jus"
+  },
+  {
+    "0": "karbau",
+    "1": "karbaux"
+  },
+  {
+    "0": "kérabau",
+    "1": "kérabaux"
+  },
+  {
+    "0": "kermès",
+    "1": "kermès"
+  },
+  {
+    "0": "lacis",
+    "1": "lacis"
+  },
+  {
+    "0": "landau",
+    "1": "landaux"
+  },
+  {
+    "0": "legs",
+    "1": "legs"
+  },
+  {
+    "0": "lilas",
+    "1": "lilas"
+  },
+  {
+    "0": "longtemps",
+    "1": "longtemps"
+  },
+  {
+    "0": "mais",
+    "1": "mais"
+  },
+  {
+    "0": "marais",
+    "1": "marais"
+  },
+  {
+    "0": "mars",
+    "1": "mars"
+  },
+  {
+    "0": "matelas",
+    "1": "matelas"
+  },
+  {
+    "0": "matériau",
+    "1": "matériaux"
+  },
+  {
+    "0": "matines",
+    "1": "matines"
+  },
+  {
+    "0": "mépris",
+    "1": "mépris"
+  },
+  {
+    "0": "merbau",
+    "1": "merbaux"
+  },
+  {
+    "0": "mets",
+    "1": "mets"
+  },
+  {
+    "0": "micronoyau",
+    "1": "micronoyaux"
+  },
+  {
+    "0": "mœurs",
+    "1": "mœurs"
+  },
+  {
+    "0": "moins",
+    "1": "moins"
+  },
+  {
+    "0": "mois",
+    "1": "mois"
+  },
+  {
+    "0": "mors",
+    "1": "mors"
+  },
+  {
+    "0": "morvandiau",
+    "1": "morvandiaux"
+  },
+  {
+    "0": "nanomatériau",
+    "1": "nanomatériaux"
+  },
+  {
+    "0": "natals",
+    "1": "natal"
+  },
+  {
+    "0": "navals",
+    "1": "naval"
+  },
+  {
+    "0": "néanmoins",
+    "1": "néanmoins"
+  },
+  {
+    "0": "nilgau",
+    "1": "nilgaux"
+  },
+  {
+    "0": "nobliau",
+    "1": "nobliaux"
+  },
+  {
+    "0": "noyau",
+    "1": "noyaux"
+  },
+  {
+    "0": "obsèques",
+    "1": "obsèques"
+  },
+  {
+    "0": "obus",
+    "1": "obus"
+  },
+  {
+    "0": "os",
+    "1": "os"
+  },
+  {
+    "0": "palais",
+    "1": "palais"
+  },
+  {
+    "0": "paradis",
+    "1": "paradis"
+  },
+  {
+    "0": "parcours",
+    "1": "parcours"
+  },
+  {
+    "0": "pardessus",
+    "1": "pardessus"
+  },
+  {
+    "0": "parfois",
+    "1": "parfois"
+  },
+  {
+    "0": "pays",
+    "1": "pays"
+  },
+  {
+    "0": "pénates",
+    "1": "pénates"
+  },
+  {
+    "0": "pers",
+    "1": "pers"
+  },
+  {
+    "0": "pierreries",
+    "1": "pierreries"
+  },
+  {
+    "0": "pilau",
+    "1": "pilaux"
+  },
+  {
+    "0": "plus",
+    "1": "plus"
+  },
+  {
+    "0": "plusieurs",
+    "1": "plusieurs"
+  },
+  {
+    "0": "poids",
+    "1": "poids"
+  },
+  {
+    "0": "pois",
+    "1": "pois"
+  },
+  {
+    "0": "pouls",
+    "1": "pouls"
+  },
+  {
+    "0": "préau",
+    "1": "préaux"
+  },
+  {
+    "0": "préparatifs",
+    "1": "préparatifs"
+  },
+  {
+    "0": "printemps",
+    "1": "printemps"
+  },
+  {
+    "0": "processus",
+    "1": "processus"
+  },
+  {
+    "0": "progrès",
+    "1": "progrès"
+  },
+  {
+    "0": "puis",
+    "1": "puis"
+  },
+  {
+    "0": "puits",
+    "1": "puits"
+  },
+  {
+    "0": "pus",
+    "1": "pus"
+  },
+  {
+    "0": "quelquefois",
+    "1": "quelquefois"
+  },
+  {
+    "0": "rabais",
+    "1": "rabais"
+  },
+  {
+    "0": "radis",
+    "1": "radis"
+  },
+  {
+    "0": "rafiau",
+    "1": "rafiaux"
+  },
+  {
+    "0": "récitals",
+    "1": "récital"
+  },
+  {
+    "0": "recors",
+    "1": "recors"
+  },
+  {
+    "0": "recours",
+    "1": "recours"
+  },
+  {
+    "0": "refus",
+    "1": "refus"
+  },
+  {
+    "0": "régals",
+    "1": "régal"
+  },
+  {
+    "0": "relais",
+    "1": "relais"
+  },
+  {
+    "0": "relevailles",
+    "1": "relevailles"
+  },
+  {
+    "0": "remords",
+    "1": "remords"
+  },
+  {
+    "0": "remous",
+    "1": "remous"
+  },
+  {
+    "0": "repas",
+    "1": "repas"
+  },
+  {
+    "0": "restau",
+    "1": "restaux"
+  },
+  {
+    "0": "rhinocéros",
+    "1": "rhinocéros"
+  },
+  {
+    "0": "rillettes",
+    "1": "rillettes"
+  },
+  {
+    "0": "rubis",
+    "1": "rubis"
+  },
+  {
+    "0": "salopiau",
+    "1": "salopiaux"
+  },
+  {
+    "0": "sarrau",
+    "1": "sarraux"
+  },
+  {
+    "0": "sas",
+    "1": "sas"
+  },
+  {
+    "0": "sauteriau",
+    "1": "sauteriaux"
+  },
+  {
+    "0": "secours",
+    "1": "secours"
+  },
+  {
+    "0": "senau",
+    "1": "senaux"
+  },
+  {
+    "0": "sévices",
+    "1": "sévices"
+  },
+  {
+    "0": "soupiraux",
+    "1": "soupirail"
+  },
+  {
+    "0": "souris",
+    "1": "souris"
+  },
+  {
+    "0": "sous",
+    "1": "sous"
+  },
+  {
+    "0": "succès",
+    "1": "succès"
+  },
+  {
+    "0": "surbau",
+    "1": "surbaux"
+  },
+  {
+    "0": "talus",
+    "1": "talus"
+  },
+  {
+    "0": "tapis",
+    "1": "tapis"
+  },
+  {
+    "0": "tau",
+    "1": "taux"
+  },
+  {
+    "0": "taudis",
+    "1": "taudis"
+  },
+  {
+    "0": "temps",
+    "1": "temps"
+  },
+  {
+    "0": "ténèbres",
+    "1": "ténèbres"
+  },
+  {
+    "0": "thermes",
+    "1": "thermes"
+  },
+  {
+    "0": "tiers",
+    "1": "tiers"
+  },
+  {
+    "0": "touchau",
+    "1": "touchaux"
+  },
+  {
+    "0": "toujours",
+    "1": "toujours"
+  },
+  {
+    "0": "toutefois",
+    "1": "toutefois"
+  },
+  {
+    "0": "travaux",
+    "1": "travail"
+  },
+  {
+    "0": "très",
+    "1": "très"
+  },
+  {
+    "0": "tussau",
+    "1": "tussaux"
+  },
+  {
+    "0": "tuyau",
+    "1": "tuyaux"
+  },
+  {
+    "0": "unau",
+    "1": "unaux"
+  },
+  {
+    "0": "univers",
+    "1": "univers"
+  },
+  {
+    "0": "us",
+    "1": "us"
+  },
+  {
+    "0": "vantaux",
+    "1": "vantail"
+  },
+  {
+    "0": "vau",
+    "1": "vaux"
+  },
+  {
+    "0": "velours",
+    "1": "velours"
+  },
+  {
+    "0": "vêpres",
+    "1": "vêpres"
+  },
+  {
+    "0": "verglas",
+    "1": "verglas"
+  },
+  {
+    "0": "vernis",
+    "1": "vernis"
+  },
+  {
+    "0": "vers",
+    "1": "vers"
+  },
+  {
+    "0": "victuailles",
+    "1": "victuailles"
+  },
+  {
+    "0": "vipériau",
+    "1": "vipériaux"
+  },
+  {
+    "0": "virus",
+    "1": "virus"
+  },
+  {
+    "0": "vitraux",
+    "1": "vitrail"
+  },
+  {
+    "0": "volontiers",
+    "1": "volontiers"
+  },
+  {
+    "0": "ypréau",
+    "1": "ypréaux"
+  },
+  {
+    "0": "gros",
+    "1": "gros"
+  },
+  {
+    "0": "pas",
+    "1": "pas"
+  }
+]
